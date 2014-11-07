@@ -1,4 +1,5 @@
 {
+    "name": "dingwen/composer-test",
     "require": {
         "fzaninotto/faker": "1.4.0"
     }
